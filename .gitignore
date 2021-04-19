@@ -1,0 +1,8 @@
+# Output files
+outputs/
+images/
+
+# Datasets
+data/
+assets/
+model-weights/*.weights
